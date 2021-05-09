@@ -154,6 +154,10 @@ img {
   margin: 1rem 0;
 }
 
+.form {
+  display: block;
+}
+
 .form__button {
   padding: 1rem;
   margin: 1rem 0;
