@@ -1,11 +1,6 @@
 console.log(data)
 
-// - Render the top list of dogs using the list item template you'll 
-// find on the HTML file
-
-// make list of dogs names within the li and append to ul
-
-// li to copy :   <li class="dogs-list__button">Mr. Bonkers</li> 
+// THIS IS OUR SECOND ATTEMPT //
 
 const dogsListNav = document.querySelector(".dogs-list")
 const mainDogSection = document.querySelector(".main__dog-section")
@@ -147,43 +142,7 @@ mainDogSection.append(addNewDog, dogFormEl)
 
 })
 
-
-// {/* <section class="main__dog-section">
-// <h2>Add a new Dog</h2>
-// <form class="form">
-
-//   <label for="name">Dog's name</label>
-//   <input type="text" id="name" name="name">
-
-//   <label for="image">Dog's picture</label>
-//   <input type="url" id="image" name="image">
-
-//   <label for="bio">Dog's bio</label>
-//   <textarea rows="5" id="bio" name="bio"></textarea>
-
-//   <input type="submit" id="submit" name="submit" value="Let's add a dog!" class="form__button">
-// </form>
-// </section> */}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// THIS IS OUR FIRST ATTEMPT //
 
 // console.log(data);
 
